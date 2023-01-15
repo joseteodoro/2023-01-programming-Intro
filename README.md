@@ -103,7 +103,7 @@ No computador, tudo que voce observa e menuseia eh software / programa. Seu sist
 
 #### Sobre o sistema operacional
 
-O sistema operacional (S.O.) eh um pedaco de software que possibilita que voce interaja com as pecas do seu computador. Sem ele, seu computador eh um monte de pecas juntas que nao fazem nada. voce pode ate ligar na tomada, mas que so vai ver uma tela preta sem nada escrito. Para que voce consiga utilizar seu computador, o SO eh responsavel por fazer varias coisas:
+O sistema operacional (S.O.) eh um pedaco de software que possibilita que voce interaja com as pecas do seu computador. Sem ele, seu computador eh um monte de pecas juntas que nao fazem nada. Voce pode ate ligar na tomada, mas que ele ter apenas uma tela preta sem nada escrito. Para que voce consiga utilizar seu computador, o SO toma conta de varias coisas:
 
 - organizar como os programas serao executados;
 - definir onde comeca um programa e termina outro;
