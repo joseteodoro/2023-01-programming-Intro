@@ -14,6 +14,7 @@ O que vamos ver aqui:
 
 - o que o profissional de computacao faz?
 - quais as partes de um computador?
+- sobre o sistema operacional;
 - sobre modelo, algoritmo e programa;
 - sobre linguagens de programacao;
 - como uma linguagem de programacao se torna um programa?
@@ -50,11 +51,9 @@ Exemplo de reescrita nao ambigua:
 
 O computador so entende o que eh preciso, nao ambiguo e direto;
 
-A unica vantagem de um computador para um ser humano eh que a memoria do computador funciona mais rapido e consegue fazer calculos mais rapidos.
+A unica vantagem de um computador para um ser humano eh que a memoria do computador funciona mais rapido, e que o processador consegue fazer calculos mais rapidos.
 
-```
 Por exemplo, um computador com processador de 2,5GHz realiza 2,5 bilhoes de operacoes por segundo. Isso equivale a fazer 2,5 bilhoes de somas ou subtracoes em 1 segundo. Quantas somas voce consegue fazer em 1 segundo?
-```
 
 #### Quais as partes de um computador?
 
@@ -67,9 +66,17 @@ O computador em si eh dividido em varias partes, mas umas poucas partes importam
 
 ![computador](./images/computer.png)
 
-Tudo gira em torno do processador (CPU), por isso ele eh tao determinante na velocidade de processamento de seu computador e na velocidade com que seus programas vao rodar.
+Tudo gira em torno do processador (CPU), por isso ele eh tao determinante na velocidade de processamento de seu computador e na velocidade com que seus programas rodam.
 
+Porque consideramos essas partes mais relevantes durante o desenvolvimento de software? No mundo do desenvolvimento de software dizemos que, cpu e memoria sao rapidos, entrada e saida (IO - input output) sao lentos. Por isso, durante o desenvolvimento de um programa, separamos o que vai em memoria, o que vai de entrada/saida, e o quanto vamos mandar ao mesmo tempo para o processador (veremos mais detalhes sobre isso quando falarmos sobre estruturas de dados).
 
+Lembremos ainda que processador (CPU) e memoria (RAM) sao volateis. Isso significa que eles sao completamente apagados quando voce desliga / reinicia seu computador. Desse modo, toda e qualquer coisa que precisamos guardar para depois precisa ir para algum output (arquivos, internet, bancos de dados).
+
+Quando voce fecha seu navegador, desliga seu computador e depois liga seu computador de novo, o seu navegador abre de novo as abas que estavam abertas? Se sim, pode ter certeza que o programa do navegador criou um arquivo em algum lugar para escrever quais paginas estavam abertas. Quando voce abre o navegador de novo, o programa observa que existe um arquivo salvo com as abas antigas e abre elas novamente. Sua impressao eh de que o navegador continuou de onde parou, mas na verdade ele fechou tudo e abriu tudo de novo antes que voce percebesse. Tudo o que estava em CPU ou memoria foi para o limbo quando o computador desligou / reiniciou.
+
+No computador, tudo que voce observa e menuseia eh software / programa. Seu sistema operacional (Windows, linux, Mac) eh um programa sendo executado em processador e memoria. O mesmo vale para seu navegador, seu office, seu WIFI. Tudo mesmo. E alguem codificou esse programa que voce esta executando.
+
+#### Sobre o sistema operacional
 
 #### Sobre modelo, algoritmo e programa
 
