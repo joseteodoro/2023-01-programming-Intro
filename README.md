@@ -12,19 +12,72 @@ O que vamos ver aqui:
 
 ### Introducao a computacao
 
-- O que o professional de computacao (TI) faz?
+- o que o profissional de computacao faz?
+- quais as partes de um computador?
+- sobre modelo, algoritmo e programa;
+- sobre linguagens de programacao;
+- como uma linguagem de programacao se torna um programa?
 
-    - desenvolvem programas, resolvem problemas, automatizam solucoes, utilizam programas para deixar a vida das pessoas mais facil, utilizam programas para resolver problemas que seria trabalhoso de se resolver manualmente, organizam equipes que estao construindo programas para que elas consigam criar uma solucao grande, elaboram solucoes para que seu site nao leve 10 segundos para abrir?
+#### O que o professional de computacao (TI) faz?
 
-    - podemos ser chamados de desenvolvedor, arquiteto de software, engenheiro de software, programador, lider tecnico, coder, developer, programmer, techlead, software engineer, entre outros nomes;
+- desenvolvem programas, resolvem problemas, automatizam solucoes, utilizam programas para deixar a vida das pessoas mais facil, utilizam programas para resolver problemas que seria trabalhoso de se resolver manualmente, organizam equipes que estao construindo programas para que elas consigam criar uma solucao grande, elaboram solucoes para que seu site nao leve 10 segundos para abrir?
 
-    - de modo simplificado, o professional de TI resolve problemas utilizando software, as vezes ele escreve, as vezes utiliza ferramentas que outras pessoas escreveram;
+- podemos ser chamados de desenvolvedor, arquiteto de software, engenheiro de software, programador, lider tecnico, coder, developer, programmer, techlead, software engineer, entre outros nomes;
 
-    - o computador so faz aquilo que mandamos fazer. Ele nao pensa por si so e na consegue fazer interpretacoes complexas, as instrucoes precisam ser diretas e nao ambiguas;
+- de modo simplificado, o professional de TI resolve problemas utilizando software, as vezes ele escreve, as vezes utiliza ferramentas que outras pessoas escreveram;
 
-    Por exemplo:
+- o computador so faz "estritamemte" aquilo que mandamos fazer. Ele nao pensa por si so e na consegue fazer interpretacoes complexas, as instrucoes precisam ser diretas e nao ambiguas;
 
-    "(esposa) - Querido, va ao mercado e me traga 12 ovos, e se tiver leite me traga 2;"
+Exemplo de ambiguidade:
+
+```
+(esposa) - Querido, va ao mercado e me traga 12 ovos, e se tiver leite fresco me traga 2;
+```
+
+Nao eh ambiguo para mim, ou para voce, mas o computador nao entende isso ai e possivelmente te traz 2 ovos se ele encontrar leite fresco.
+
+```
+(esposa) - Querido, pode comprar sorvete pra gente? Pode ser qualquer sabor desde que nao seja Chocolate;
+```
+
+Esse o computador sequer sabe o que fazer, afinal voce nunca disse qual sabor quer e tambem nao disse quais os sabores que sao aceitaveis. Sera que sorvete de xuxu seria aceitavel? Sorvete de beringela? Se voce sabe que sua esposa odeia sorvete de abacaxi, voce considera a possibilidade de levar sorvete de abacaxi, mesmo que ela tenha dito que pode ser de qualquer sabor?
+
+Exemplo de reescrita nao ambigua:
+
+```
+(esposa) - Querido, va ao mercado e me traga 12 ovos, e se tiver leite fresco me traga 2 litros de leite fresco e 12 ovos;
+```
+
+O computador so entende o que eh preciso, nao ambiguo e direto;
+
+A unica vantagem de um computador para um ser humano eh que a memoria do computador funciona mais rapido e consegue fazer calculos mais rapidos.
+
+```
+Por exemplo, um computador com processador de 2,5GHz realiza 2,5 bilhoes de operacoes por segundo. Isso equivale a fazer 2,5 bilhoes de somas ou subtracoes em 1 segundo. Quantas somas voce consegue fazer em 1 segundo?
+```
+
+#### Quais as partes de um computador?
+
+O computador em si eh dividido em varias partes, mas umas poucas partes importam durante a construcao de um programa e elas estao relacionados ao modo como o computador executa os programas:
+
+- processador
+- memoria
+- entrada (mouse, teclado, microfone, camera, internet, arquivos, bancos de dados, etc)
+- saida (tela, internet, arquivos, bancos de dados, etc)
+
+![computador](./images/computer.png)
+
+Tudo gira em torno do processador (CPU), por isso ele eh tao determinante na velocidade de processamento de seu computador e na velocidade com que seus programas vao rodar.
+
+
+
+#### Sobre modelo, algoritmo e programa
+
+#### Sobre linguagens de programacao
+
+#### Como uma linguagem de programacao se torna um programa?
+
+
 
 ## Dia 2o
 
