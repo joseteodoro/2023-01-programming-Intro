@@ -2,6 +2,29 @@
 
 Curso de introducao a programacao e funcionamento de computadores utilizando a linguagem [Python](https://www.python.org/)
 
+## Agenda de nossas aulas:
+
+- [1o dia](https://github.com/joseteodoro/2023-01-programming-Intro#dia-1o):
+    - [#](https://github.com/joseteodoro/2023-01-programming-Intro#introducao-a-computacao) Introdução a computação: funcionamento do computador (CPU, memória e dispositivos de E/S); Pensamento computacional, conceito de programa e algoritmo; Introdução a linguagem de programação e ao Python;
+    - [#]() Programação interativa em Python; Comandos de entrada e saída em Python;
+
+- [2o dia](https://github.com/joseteodoro/2023-01-programming-Intro#dia-2o):
+    - [#]() Estruturas de controle;
+    - [#]() Tipos estruturados sequenciais (String, Listas, Tuplas);
+
+- [3o dia](https://github.com/joseteodoro/2023-01-programming-Intro#dia-3o):
+    - [#]() Tipos estruturados não sequenciais (Hashable, Conjuntos e Dicionários);
+    - [#]() Funções;
+
+- [4o dia](https://github.com/joseteodoro/2023-01-programming-Intro#dia-4o):
+    - [#]() Arquivos;
+    - [#]() Python com banco de dados SQLite;
+
+
+- [5o dia](https://github.com/joseteodoro/2023-01-programming-Intro#dia-5o):
+    - [#]() Princípios de Programação Orientada a Objetos em Python;
+    - [#]() Visualização de dados em Python;
+
 ## Dia 1o
 
 O que vamos ver aqui:
@@ -12,12 +35,12 @@ O que vamos ver aqui:
 
 ### Introducao a computacao
 
-- o que o profissional de computacao faz?
-- quais as partes de um computador?
-- sobre o sistema operacional;
-- sobre modelo, algoritmo e programa;
-- sobre linguagens de programacao;
-- como uma linguagem de programacao se torna um programa?
+- [o que o profissional de computacao faz?](https://github.com/joseteodoro/2023-01-programming-Intro#o-que-o-professional-de-computacao-ti-faz)
+- [quais as partes de um computador?](https://github.com/joseteodoro/2023-01-programming-Intro#quais-as-partes-de-um-computador)
+- [sobre o sistema operacional;](https://github.com/joseteodoro/2023-01-programming-Intro#sobre-o-sistema-operacional)
+- [sobre modelo, algoritmo e programa;](https://github.com/joseteodoro/2023-01-programming-Intro#sobre-modelo-algoritmo-e-programa)
+- [sobre linguagens de programacao;](https://github.com/joseteodoro/2023-01-programming-Intro#sobre-linguagens-de-programacao)
+- [como uma linguagem de programacao se torna um programa?](https://github.com/joseteodoro/2023-01-programming-Intro#como-uma-linguagem-de-programacao-se-torna-um-programa)
 
 #### O que o professional de computacao (TI) faz?
 
@@ -84,7 +107,7 @@ No computador, tudo que voce observa e menuseia eh software / programa. Seu sist
 
 #### Como uma linguagem de programacao se torna um programa?
 
-
+### Introducao ao Python
 
 ## Dia 2o
 
