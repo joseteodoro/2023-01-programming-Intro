@@ -176,13 +176,43 @@ E abrir num sistema operacional sem o python, ele vai abrir seu editor de texto 
 
 ### Introducao ao Python
 
+
+#### Instalacao
+
+No linux nao precisa, no Mac tambem nao precisa. No Windows, talvez precise:
+
+Faca o download do Python no [site oficial](https://www.python.org/downloads/)
+
+Faca a instalacao normalmente, como em qualquer programa windows e voce ja tera o Python instalado no seu Windows.
+
+No linux e mac, o python vem instalado por padrao. Mas podemos ainda apelar para ambientes online para experimentarmos as coisas do python.
+
+Por exemplo: [jdoodle](https://www.jdoodle.com/python3-programming-online/)
+ou [Replit](https://replit.com/languages/python3)
+
 terminal
+
 python version
-escrevendo meu primeiro arquivo python
-executando meu primeiro arquivo python
+
+escrevendo meu script em um arquivo python
+
+executando meu script em um arquivo python
+
 imprimindo coisas no console
+
 definindo variaveis
+
 operacoes aritmeticas
+
+#### Tipos primitivos no python
+
+O Python possui poucos tipos que consideramos primitivos. Podemos considera-los, grosseiramente, como sendo conceitos mais simples dentro do python:
+
+- Integers - numeros inteiros; Ex: `minha_idade = 39`
+- Float - numeros decimais; Ex: `preco_da_gasolina = 10.50`
+- Strings - texto; Ex: `meu_nome = 'jose teodoro da silva'`
+- Boolean - valores logicos (True ou False); Ex: `jose_eh_professor = True`
+
 tipos primitivos no python
 
 ## Dia 2o
